@@ -1,0 +1,11 @@
+.home1{
+    width: 350px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+.home1 > h3{
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    font-weight: 700;
+}
